@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1722118531 source:c:\users\chinnu2\desktop\c++\project 2\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"Proj2Functions.h"
+	<algorithm>
+	<cstdlib>
+	<iomanip>
+	<cstdlib>
+	<iomanip>
+
+1722218852 c:\users\chinnu2\desktop\c++\project 2\proj2functions.h
+	<algorithm>
+	<vector>
+	<fstream>
+

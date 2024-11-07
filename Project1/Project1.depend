@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1720923157 source:c:\users\chinnu2\desktop\c++\project1\main.cpp
+	<iostream>
+	"WeatherData.h"
+	<fstream>
+	<string>
+	<cmath>
+	<iomanip>
+
+1720921950 c:\users\chinnu2\desktop\c++\project1\weatherdata.h
+	<iostream>
+	<fstream>
+	<string>
+
